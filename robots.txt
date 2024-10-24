@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://hawuqojo.github.io/sitemap/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/sjR/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/CRK/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/Dox/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/KQh/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/yjn/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/VWo/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/cbC/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/Noa/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/QqR/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/tGm/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/SHn/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/lsR/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/hxZ/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/DQo/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/sOH/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/DWb/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/yht/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/pGT/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/DcZ/sitemap_index.hawuqojo
+Sitemap: https://hawuqojo.github.io/Gil/sitemap_index.hawuqojo
